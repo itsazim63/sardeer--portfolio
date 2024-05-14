@@ -1065,13 +1065,13 @@ video {
   justify-content: center;
   --tw-bg-opacity: 1;
   background-color: rgb(148 163 184 / var(--tw-bg-opacity));
-  padding-top: 6rem;
   padding-bottom: 6rem;
 }
 
 @media (min-width: 768px) {
   .about {
     display: flex;
+    padding-top: 5rem;
   }
 }
 
